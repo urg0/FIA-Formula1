@@ -56,7 +56,7 @@ Beginner project that you can find information about drivers, circuits, construc
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img width="1680" alt="coindom1" src="https://github.com/urg0/coindom/assets/81859377/8aee74f6-302f-44bc-a5d6-e0f94f152285">
+<img width="1680" alt="coindom1" src="https://github.com/urg0/FIA-Formula1/assets/81859377/d1dca775-342b-4b03-a23f-5773d67a72a3">
 
 
 Started this project for practice purposes. I am really new in the development industry and i this is my first React.js project. Still got missing parts and features. 
@@ -67,11 +67,6 @@ I had to use dummy data because of the lack of API's data. (could not find the d
 4-Constructor's (team) drivers and etc...
 I will try to develop the project whenever i have time. Thats all.
 These are some snapshots from the project:
-
-
-Welcome Page - News:
-![image](https://github.com/urg0/FIA-Formula1/assets/81859377/d1dca775-342b-4b03-a23f-5773d67a72a3)
-![image](https://github.com/urg0/FIA-Formula1/assets/81859377/aac17b18-5f54-490d-938f-7f6b1e0072e6)
 
 
 Standings:
