@@ -1,70 +1,112 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a name="readme-top"></a>
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="https://github.com/urg0/coindom/assets/81859377/556f0b8a-28ce-42e7-bb6e-3f73e8e494e9" alt="Logo" width="80" height="80">
 
-## Available Scripts
+  </a>
 
-In the project directory, you can run:
+<h3 align="center">FIA-Formula1</h3>
 
-### `npm start`
+  <p align="center">
+Beginner project that you can find information about drivers, circuits, constructors(teams), schedule and more for 2023.
+    <br />
+    <a href="https://github.com/urg0/FIA-Formula1"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/urg0/FIA-Formula1">View Demo</a>
+    ·
+    <a href="https://github.com/urg0/FIA-Formula1/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/urg0/FIA-Formula1/issues">Request Feature</a>
+  </p>
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img width="1680" alt="coindom1" src="https://github.com/urg0/coindom/assets/81859377/8aee74f6-302f-44bc-a5d6-e0f94f152285">
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Started this project for practice purposes. I am really new in the development industry and i this is my first React.js project. Still got missing parts and features. 
+I had to use dummy data because of the lack of API's data. (could not find the desired API about F1, all are imperfect) So i use dummy data in:
+1-Driver's helmet, biography, childhood pictures
+2-News
+3-Some tiny parts of schedule
+4-Constructor's (team) drivers and etc...
+I will try to develop the project whenever i have time. Thats all.
+These are some snapshots from the project:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Welcome Page
+![image](https://github.com/urg0/coindom/assets/81859377/077e96e8-b183-4cc9-943d-11cf2d514180)
+![image](https://github.com/urg0/coindom/assets/81859377/0c36f84f-d9ad-4d05-8580-36ca8beb9f15)
+![image](https://github.com/urg0/coindom/assets/81859377/50fd8684-40bc-4201-a7e6-87f8841fac08)
+![image](https://github.com/urg0/coindom/assets/81859377/8d3f7ea6-d21d-40fe-9898-678a5765d6ea)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+Cryptocurrencies:
+![image](https://github.com/urg0/coindom/assets/81859377/d6242aac-a972-4262-a08e-12c0c216da09)
+![image](https://github.com/urg0/coindom/assets/81859377/514d4175-8924-4e2c-9748-42fbe9986258)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+NFT Page:
+![image](https://github.com/urg0/coindom/assets/81859377/ec8903a4-88c6-483a-894c-1df072c3216b)
+![image](https://github.com/urg0/coindom/assets/81859377/5408e14e-25ca-4016-9457-988ba849163c)
+![image](https://github.com/urg0/coindom/assets/81859377/e6f42915-005a-4fe7-9ef3-8c64f01a73e6)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+![image](https://github.com/urg0/coindom/assets/81859377/eb79237a-739f-4cd7-93b3-3bf47e75a0d0)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+### Built With
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+* [![React][React.js]][React-url]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Deployment
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Ulas Rotinda Guler  - urgulerr@gmail.com - https://www.linkedin.com/in/ula%C5%9F-rotinda-g%C3%BCler-a605981b4/
 
-### `npm run build` fails to minify
+Project Link: [https://github.com/urg0/coindom](https://github.com/urg0/coindom)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
