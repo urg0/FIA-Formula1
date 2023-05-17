@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://github.com/urg0/coindom/assets/81859377/556f0b8a-28ce-42e7-bb6e-3f73e8e494e9" alt="Logo" width="80" height="80">
+    <img src="https://github.com/urg0/FIA-Formula1/assets/81859377/26f07cec-48dc-4cf5-bd44-731a4adfb372" alt="Logo" width="80" height="80">
 
   </a>
 
@@ -61,7 +61,7 @@ Beginner project that you can find information about drivers, circuits, construc
 
 Started this project for practice purposes. I am really new in the development industry and i this is my first React.js project. Still got missing parts and features. 
 I had to use dummy data because of the lack of API's data. (could not find the desired API about F1, all are imperfect) So i use dummy data in:
-1-Driver's helmet, biography, childhood pictures
+1-Driver's helmet, biography, gallery
 2-News
 3-Some tiny parts of schedule
 4-Constructor's (team) drivers and etc...
@@ -69,24 +69,33 @@ I will try to develop the project whenever i have time. Thats all.
 These are some snapshots from the project:
 
 
-Welcome Page
-![image](https://github.com/urg0/coindom/assets/81859377/077e96e8-b183-4cc9-943d-11cf2d514180)
-![image](https://github.com/urg0/coindom/assets/81859377/0c36f84f-d9ad-4d05-8580-36ca8beb9f15)
-![image](https://github.com/urg0/coindom/assets/81859377/50fd8684-40bc-4201-a7e6-87f8841fac08)
-![image](https://github.com/urg0/coindom/assets/81859377/8d3f7ea6-d21d-40fe-9898-678a5765d6ea)
+Welcome Page - News:
+![image](https://github.com/urg0/FIA-Formula1/assets/81859377/d1dca775-342b-4b03-a23f-5773d67a72a3)
+![image](https://github.com/urg0/FIA-Formula1/assets/81859377/aac17b18-5f54-490d-938f-7f6b1e0072e6)
 
 
-Cryptocurrencies:
-![image](https://github.com/urg0/coindom/assets/81859377/d6242aac-a972-4262-a08e-12c0c216da09)
-![image](https://github.com/urg0/coindom/assets/81859377/514d4175-8924-4e2c-9748-42fbe9986258)
+Standings:
+![image](https://github.com/urg0/FIA-Formula1/assets/81859377/a0f35499-6296-4145-b03e-889354275356)
 
-NFT Page:
-![image](https://github.com/urg0/coindom/assets/81859377/ec8903a4-88c6-483a-894c-1df072c3216b)
-![image](https://github.com/urg0/coindom/assets/81859377/5408e14e-25ca-4016-9457-988ba849163c)
-![image](https://github.com/urg0/coindom/assets/81859377/e6f42915-005a-4fe7-9ef3-8c64f01a73e6)
+Schedule:
+![image](https://github.com/urg0/FIA-Formula1/assets/81859377/b168ee05-c1c9-426c-820f-e174034beb5a)
 
 
-![image](https://github.com/urg0/coindom/assets/81859377/eb79237a-739f-4cd7-93b3-3bf47e75a0d0)
+
+Drivers:
+![image](https://github.com/urg0/FIA-Formula1/assets/81859377/4cea08e2-71e0-4d01-9fe2-4e0548d89685)
+![image](https://github.com/urg0/FIA-Formula1/assets/81859377/0ddd5cde-b767-4cfd-8b82-b56e1f9aec48)
+![image](https://github.com/urg0/FIA-Formula1/assets/81859377/bbfa9988-f8de-4785-bcca-004aa11d0d77)
+![image](https://github.com/urg0/FIA-Formula1/assets/81859377/dedc22c7-b518-425f-b4d0-566d29c1fab9)
+
+
+
+
+Consturctors(Teams):
+![image](https://github.com/urg0/FIA-Formula1/assets/81859377/21e057b9-f584-4e9a-9564-732ef1dcfcda)
+![image](https://github.com/urg0/FIA-Formula1/assets/81859377/c0a7e684-3ea5-4406-831b-a6bf6ce8c66b)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
