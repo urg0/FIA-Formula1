@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://github.com/urg0/FIA-Formula1/assets/81859377/26f07cec-48dc-4cf5-bd44-731a4adfb372" alt="Logo" width="160" height="80">
+    <img src="https://github.com/urg0/FIA-Formula1/assets/81859377/26f07cec-48dc-4cf5-bd44-731a4adfb372" alt="Logo" width="200" height="80">
 
   </a>
 
