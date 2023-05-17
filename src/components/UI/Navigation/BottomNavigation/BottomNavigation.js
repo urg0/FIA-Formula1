@@ -15,6 +15,7 @@ const BottomNavigation = () => {
       </div>
       <div className={styles.footer}>
         <footer> © 2003-2023 Formula One World Championship Limited </footer>
+        <footer className={styles.urg}>URG</footer>
       </div>
     </>
   );
