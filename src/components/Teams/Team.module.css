@@ -1,0 +1,77 @@
+.cardContainer {
+  background-color: rgb(30, 32, 33);
+
+  width: 650px;
+  height: 350px;
+  border-radius: 14px;
+  margin: 50px 90px 10px 90px;
+  border-right: 0.05cm solid rgb(117, 116, 115);
+  border-top: 0.05cm solid rgb(117, 116, 115);
+  display: inline-block;
+  text-align: center;
+}
+
+.bold h1 {
+  margin-left: 90px;
+}
+
+.teamLogo {
+  border-radius: 0.3cm;
+  width: 15%;
+  margin-left: 80px;
+}
+
+.flags {
+  width: 10%;
+}
+
+.cardContainer:hover {
+  border-right: 0.05cm solid rgb(180, 5, 0);
+  border-top: 0.05cm solid rgb(180, 5, 0);
+  border-left: 0.05cm solid rgb(180, 5, 0);
+}
+.name {
+  font-size: 15px;
+  font-weight: lighter;
+  margin-right: 20px;
+}
+
+.bold p,
+h1 {
+  display: inline-block;
+}
+
+.driver {
+  width: 72px;
+  margin-right: 22px;
+  padding-right: 20px;
+}
+.driver:nth-child(2) {
+  border-right: 1px solid rgb(117, 116, 115);
+}
+
+.carLogo {
+  width: 400px;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(216, 213, 207);
+}
+
+.bold {
+  font-weight: bold;
+  font-size: 0.9rem;
+  text-align: center;
+  margin-right: 20px;
+  margin-left: 20px;
+  padding: 10px 20px 10px 20px;
+  border-top: 1px solid rgb(117, 116, 115);
+  border-bottom: 1px solid rgb(117, 116, 115);
+}
+
+.normal {
+  font-size: 2rem;
+  display: inline-block;
+  margin-right: 30px;
+}

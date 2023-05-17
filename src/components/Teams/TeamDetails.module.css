@@ -1,0 +1,152 @@
+* {
+  box-sizing: border-box;
+}
+
+.cardContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(30, 32, 33);
+  border-radius: 14px;
+  margin: 60px 0px 0px 180px;
+  border: 0.05cm solid rgb(216, 213, 207);
+  display: inline-block;
+  margin-top: 14rem;
+  margin-right: 8rem;
+  color: rgb(210, 207, 207);
+}
+
+.titleContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.imgContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.driverTitle {
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  border-radius: 0.3cm;
+  width: 23rem;
+  float: left;
+  margin-bottom: 0;
+  margin-bottom: 20px;
+}
+
+.car {
+  display: inline-block;
+  border-radius: 0.3cm;
+  width: 20rem;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.belowContainer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+
+.list {
+  margin-right: 85px;
+}
+.name {
+  font-size: 2.6rem;
+  padding: 10px 20px 10px 20px;
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  margin-left: 50px;
+  margin-top: 0px;
+  margin-bottom: 0;
+  display: inline-block;
+}
+
+.team {
+  font-weight: lighter;
+  font-size: 17px;
+  color: rgb(216, 213, 207);
+  margin-top: 10px;
+  margin-left: 130px;
+  margin-bottom: 0px;
+}
+.flags {
+  width: 62px;
+  color: rgb(216, 213, 207);
+  border-radius: 0.1cm;
+  margin-left: 85px;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+.link {
+  text-decoration: none;
+  color: rgb(216, 213, 207);
+}
+
+.driverContainer {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-right: 10rem;
+}
+
+.driverContainer div {
+  width: 9rem;
+}
+.driverContainer img {
+  width: 8.8rem;
+}
+
+.driverContainer p img {
+  width: 2rem;
+}
+.driverContainer p,
+.driverContainer h1 {
+  font-size: 0.7rem;
+}
+
+.driverContainer h1 {
+  font-size: 0.8rem;
+}
+
+.infoTitle {
+  color: hsl(0, 0%, 50%);
+  display: inline;
+}
+
+.info {
+  padding-left: 130px;
+  padding-top: 40px;
+}
+.info:nth-child(1) {
+  padding-top: 0;
+}
+
+.car:hover {
+  transform: scale(1.04);
+}
+
+.link {
+  margin-left: 42%;
+}
+.back {
+  font-size: 1.1rem;
+  background-color: rgb(140, 140, 140);
+  padding: 10px;
+  border-radius: 0.2cm;
+  cursor: pointer;
+}
+.back:hover {
+  background-color: rgb(105, 105, 105);
+}

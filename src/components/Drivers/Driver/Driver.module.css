@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.cardContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  background-color: white;
+  border-radius: 14px;
+  border-right: 0.05cm solid rgb(99, 99, 99);
+  border-top: 0.05cm solid rgb(99, 99, 99);
+  padding: 10px 70px 30px 70px;
+  margin: 10px 21px 40px 20px;
+  background-color: rgb(30, 32, 33);
+}
+
+.flags {
+  width: 5rem;
+}
+.driverImage {
+  width: 18rem;
+  border-radius: 0.3cm;
+}
+
+.driverInfoContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.cardContainer:hover {
+  border-right: 0.05cm solid rgb(180, 5, 0);
+  border-top: 0.05cm solid rgb(180, 5, 0);
+  border-left: 0.05cm solid rgb(180, 5, 0);
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(165, 165, 165);
+}
+
+.name {
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-align: center;
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  margin-top: 20px;
+  padding: 10px;
+  letter-spacing: 0.04cm;
+}
+.firstName {
+  display: inline;
+  font-weight: lighter;
+  margin-right: 5px;
+  letter-spacing: normal;
+  color: rgb(165, 165, 165);
+}
+
+/* text-align: center; */
+.number {
+  font-size: 4rem;
+  padding: 10px;
+  color: rgb(165, 165, 165);
+}
+
+.normal {
+  font-weight: normal;
+  font-size: 3rem;
+  color: hsl(0, 0%, 50%);
+}

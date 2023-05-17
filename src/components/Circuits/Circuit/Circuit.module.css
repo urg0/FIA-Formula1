@@ -1,0 +1,123 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cardContainer {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(30, 32, 33);
+  width: 160px;
+  height: 500px;
+  border-radius: 14px;
+  border-right: 0.05cm solid rgb(108, 108, 108);
+  border-top: 0.05cm solid rgb(108, 108, 108);
+  text-align: center;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.cardContainer:hover {
+  border: 0.05cm solid rgb(180, 5, 0);
+  border-bottom: none;
+  border-radius: 0.2cm;
+}
+
+.flag {
+  margin-top: 140px;
+  width: 80px;
+  border-radius: 0.08cm;
+}
+.country {
+  font-size: 18px;
+  color: rgb(117, 117, 117);
+  font-weight: lighter;
+  margin-top: 3px;
+  margin-bottom: 23px;
+}
+
+.month {
+  font-size: 17px;
+  color: rgb(117, 117, 117);
+  margin-top: 5px;
+  font-weight: lighter;
+}
+
+.day {
+  color: rgb(117, 117, 117);
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.cardContainerFull {
+  display: inline-block;
+  text-align: center;
+  border: 0.05cm solid rgb(180, 5, 0);
+  border-bottom: none;
+  width: 500px;
+  height: 500px;
+  border-radius: 0.2cm;
+  cursor: pointer;
+  color: rgb(162, 151, 151);
+}
+
+.circuitName {
+  font-size: 1.7rem;
+  padding: 5px;
+}
+.flagHovered {
+  margin-top: 30px;
+  width: 24%;
+}
+
+.rolex {
+  display: flex;
+  width: max;
+  height: 120px;
+  border-radius: 0.3cm;
+  background-color: #0f4837;
+  align-items: center;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.rolly {
+  border-radius: 0.3cm;
+  width: 180px;
+}
+
+.date {
+  font-size: 13px;
+  color: gray;
+}
+
+.time {
+  color: gray;
+  margin-left: 20px;
+  margin-bottom: 90px;
+  display: block;
+}
+
+.city {
+  color: gray;
+  display: block;
+  margin: 100px 50px 0 20px;
+}
+
+.circuit {
+  width: 130px;
+}
+.wiki {
+  font-size: 1.2rem;
+  color: rgb(0, 96, 7);
+  letter-spacing: 0.07cm;
+}

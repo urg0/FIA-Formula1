@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.news {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 25px;
+  border-bottom: 0.1cm solid #635a5a;
+  border-left: 0.1cm solid #635a5a;
+  border-radius: 0.2cm;
+  cursor: pointer;
+  color: whitesmoke;
+}
+
+.news:hover {
+  border-color: rgba(180, 5, 0, 0.8);
+  text-decoration: none;
+}
+
+.newsImage {
+  align-self: flex-start;
+  width: 40%;
+}
+
+.title {
+  width: 12rem;
+  margin-right: 30px;
+  display: inline-block;
+}
+
+.newsImage {
+  width: 14rem;
+  border-radius: 0.2cm;
+}

@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.standingContainer {
+  display: flex;
+  align-items: stretch; /* default */
+  flex-direction: column;
+  justify-content: center;
+  padding: 40px;
+  flex: 1;
+  color: whitesmoke;
+}
+.standingContainer div {
+  border: 0.03cm solid rgb(216, 213, 207);
+}
+
+.titleContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+.infoContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.flags {
+  width: 1.5rem;
+}
+
+.name,
+.nationality,
+.points {
+  flex: 1;
+}
+
+.points {
+  flex: 0.3;
+}
+
+.title {
+  align-self: center;
+  font-size: 1.53rem;
+  margin: 20px;
+  padding: 0.6cm;
+  color: rgb(216, 213, 207);
+  border-right: 0.25cm solid rgb(216, 213, 207);
+  border-radius: 0.2cm;
+  border-top: 0.25cm solid rgb(216, 213, 207);
+}

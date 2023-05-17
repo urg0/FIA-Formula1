@@ -1,0 +1,9 @@
+.sort {
+  /* background-color: rgb(117, 68, 69); */
+  border-radius: 0.1cm;
+  width: 200px;
+  height: 39px;
+  margin-left: 20px;
+  cursor: pointer;
+  background-color: rgb(118, 118, 118);
+}

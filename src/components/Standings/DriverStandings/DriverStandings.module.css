@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.standingContainer {
+  display: flex;
+  align-items: stretch; /* default */
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 70px;
+  flex: 1.8;
+  color: whitesmoke;
+}
+
+.standingContainer div {
+  border: 0.01cm solid rgb(216, 213, 207);
+}
+
+.titleContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.infoContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.fullName,
+.points,
+.constructors {
+  flex: 1;
+}
+.flags {
+  width: 1.5rem;
+}
+
+.name {
+  flex: 1.6;
+}
+
+.fullName {
+  flex: 1.8;
+}
+
+.nationality {
+  flex: 1.2;
+}
+.title {
+  align-self: center;
+  font-size: 2.8rem;
+  margin: 30px;
+  padding: 0.6cm;
+  color: rgb(216, 213, 207);
+  border-right: 0.25cm solid rgb(216, 213, 207);
+  border-radius: 0.2cm;
+  border-top: 0.25cm solid rgb(216, 213, 207);
+}

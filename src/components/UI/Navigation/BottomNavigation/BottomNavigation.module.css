@@ -1,0 +1,17 @@
+.bottom {
+  margin: 30px;
+  text-align: left;
+  border: 0.05cm solid rgb(216, 213, 207);
+  background-color: rgb(216, 213, 207);
+}
+
+.bottom p {
+  margin-left: 20px;
+  color: rgb(121, 117, 117);
+}
+
+.footer {
+  margin: 20px;
+  margin-left: 35%;
+  color: rgb(121, 117, 117);
+}

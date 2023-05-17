@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.homeContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 19rem;
+  margin-bottom: 5rem;
+}
+
+.homeContainer img {
+  width: 15rem;
+}
+.homeContainer img:hover {
+  transform: scale(1.1);
+}
+
+.titleContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-size: 70px;
+  color: rgb(216, 213, 207);
+  border-right: 0.25cm solid rgb(216, 213, 207);
+  border-top: 0.25cm solid rgb(216, 213, 207);
+  border-radius: 0.2cm;
+  padding: 2rem;
+  padding-top: 1rem;
+}
+
+.alt {
+  font-size: 17px;
+  text-align: center;
+  color: rgb(216, 213, 207);
+}
+
+.helmetLink {
+  display: inline-block;
+}

@@ -1,0 +1,32 @@
+.container {
+  margin-top: 4rem;
+  display: flex;
+  align-items: center;
+}
+
+.cardLayout {
+  display: flex;
+  margin: 50px 0px 0px 90px;
+}
+
+.cardLayout .driverImage {
+  width: 50%;
+}
+
+.detailSearch {
+  margin-left: 2%;
+}
+
+.detailSearch button {
+  font-size: 1.1rem;
+  background-color: rgb(180, 5, 0);
+  border-radius: 0.15cm;
+  cursor: pointer;
+}
+.detailSearch button:hover {
+  background-color: rgb(12, 5, 4);
+}
+.loader {
+  display: inline-block;
+  margin: 100px 0 90px 800px;
+}

@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.topContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: space-between;
+}
+
+.titleContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 15rem;
+  margin-bottom: 3rem;
+}
+
+.standingContainer {
+  display: flex;
+}
+
+.title {
+  font-size: 4.4rem;
+  color: rgb(216, 213, 207);
+  border-right: 0.25cm solid rgb(216, 213, 207);
+  border-top: 0.25cm solid rgb(216, 213, 207);
+  border-radius: 0.2cm;
+  padding: 2rem;
+  padding-top: 1rem;
+}
+
+.alt {
+  font-size: 17px;
+  text-align: center;
+  color: rgb(216, 213, 207);
+}
