@@ -107,7 +107,7 @@ Consturctors(Teams):
 
 Ulas Rotinda Guler  - urgulerr@gmail.com - https://www.linkedin.com/in/ula%C5%9F-rotinda-g%C3%BCler-a605981b4/
 
-Project Link: [https://github.com/urg0/coindom](https://github.com/urg0/coindom)
+Project Link: [https://github.com/urg0/coindom](https://github.com/urg0/FIA-Formula1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
